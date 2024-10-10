@@ -21,3 +21,14 @@ article{
     padding: 15px;
     box-shadow: 2px 1px 50px black;
 }
+header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
