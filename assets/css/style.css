@@ -2,9 +2,16 @@ img{
     width: 70%;
 }
 
-.tree-container{
+.treeContainer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     gap: 20px;
+}
+
+article{
+    width: 30%;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 2px 1px 50px black;
 }
